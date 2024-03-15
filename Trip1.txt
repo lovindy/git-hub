@@ -11,4 +11,5 @@ Check-out time: 12:00 p.m.
 - Three dogs
 - Four cats
 - Five kids
+- Six corns
 # the file has been modified and became an untracked file.
