@@ -9,4 +9,5 @@ Check-out time: 12:00 p.m.
 - One bed
 - Two bathrooms
 - Three dogs
+- Four cats
 # the file has been modified and became an untracked file.
